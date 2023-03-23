@@ -11,8 +11,11 @@ Click the "generate password" button and respond to a sequence of prompts. If yo
 
 ## Credits
 https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-FSF-PT-02-2023-U-LOLC/-/tree/main/03-JavaScript/02-Challenge
+
 https://www.youtube.com/watch?v=v2jfGo7ztm8
+
 https://www.youtube.com/watch?v=O-79Cb5s9U4
+
 
 ## License
 Please refer to the LICENSE in the repo.
